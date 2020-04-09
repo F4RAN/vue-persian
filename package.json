@@ -1,7 +1,7 @@
 {
     "private": false,
     "name": "vue-persian",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "description": "convert numbers",
     "main": "./dist/index.js",
     "files": [

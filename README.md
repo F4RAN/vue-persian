@@ -1,4 +1,4 @@
-easy to use vue digits convertor
+easy to use vue digits converter
 
 **Demo:**  [http://byParsa.me/Plugins/vue-persian](http://byParsa.me/Plugins/vue-button-icon)
 
